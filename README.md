@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RegisBaudry
-- 👀 I’m interested in Back-end development
-- 🌱 I’m currently following a 6 months course to become Web Developer
-- 💞️ I’m looking for a 2 months internship
+- 👀 I’m web developper
 - 📫 How to reach me regisbaudry@outlook.fr
 
 <!---
